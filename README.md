@@ -3,7 +3,7 @@ A FullStack online learning platform that allow instructors to add courses, whil
 Students can track their progress, and instructors can monitor enrolled students on a course.
 Built using Python, Django, Django Rest Framework(Rest API), PostgreSQL, Axios, React, SemanticUI, Bootstrap.
 ## Demo \
-
+https://www.loom.com/share/839c492dea4b497a9ade2351670216f5
 
 ## To run this code <br/>
 1.NPM or Yarn <br/>
