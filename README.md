@@ -5,7 +5,7 @@ Built using Python, Django, Django Rest Framework(Rest API), PostgreSQL, Axios, 
 #Demo
 
 #To run this code
-1.NPM or Yarn 
+1.NPM or Yarn <br/>
 2.PostgreSQL 12.3(config and create the DB)
 3.Django 3.2(create env. variable, migrate the project and then run migration for the app)
 
