@@ -4,7 +4,7 @@ Students can track their progress, and instructors can monitor enrolled students
 Built using Python, Django, Django Rest Framework(Rest API), PostgreSQL, Axios, React, SemanticUI, Bootstrap.
 #Demo
 
-#To run this code
+#To run this code <br/>
 1.NPM or Yarn <br/>
 2.PostgreSQL 12.3(config and create the DB)
 3.Django 3.2(create env. variable, migrate the project and then run migration for the app)
