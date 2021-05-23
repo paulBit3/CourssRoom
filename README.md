@@ -1,7 +1,7 @@
 # CourssRoom
 A FullStack online learning platform that allow instructors to add courses, while students can enroll on these courses.
 Students can track their progress, and instructors can monitor enrolled students on a course.
-This is a single Web Application built using Python, Django, Django Rest Framework(Rest API), PostgreSQL, Axios, React, SemanticUI, Bootstrap.
+This is a single Page Application built using Python, Django, Django Rest Framework(Rest API), PostgreSQL, Axios, React, SemanticUI, Bootstrap.
 ## Demo \
 https://www.loom.com/share/839c492dea4b497a9ade2351670216f5
 
