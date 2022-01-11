@@ -11,7 +11,7 @@ https://www.loom.com/share/839c492dea4b497a9ade2351670216f5
 3.Django 3.2(create env. variable, migrate the project and then run migration for the app) <br/>
 
 ## How to run this code <br/>
-1.Make sure PostgreSQL is running on your system <br/>
+1.Make sure PostgreSQL is running on your system. install PostgreSQL connector by running this: pip install psycopg2-binary <br/>
 2.Install dependecies npm install or yarn add ... <br/>
 3.Open command line <br/>
 -run the backend application server, python manage.py run server (...\backend\ibleducation\python manage.py runserver) <br/>
